@@ -23,21 +23,4 @@ Results after training;
 </picture>
 
 
-<div align="center">
-<a href="https://dev.to/andreygermanov/a-practical-introduction-to-object-detection-with-yolov8-neural-network-3n8c">
-    <img src="output.png"/>
-</a>
-</div>
 
-
-<div align="center">
-<a href="https://dev.to/andreygermanov/a-practical-introduction-to-object-detection-with-yolov8-neural-network-3n8c">
-    <img src="1output.png"/>
-</a>
-</div>
-
-
-![Sample image showing the actual mask and the predicted mask.](output.png)
-
-
-![Sample image showing the actual mask and the predicted mask.](1output.png)
